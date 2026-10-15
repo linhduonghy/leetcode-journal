@@ -1,4 +1,4 @@
-package leetcode._34_First_Last_Element;
+package _34_First_Last_Element;
 
 class Solution {
     public int[] searchRange(int[] nums, int target) {     

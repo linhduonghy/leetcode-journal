@@ -1,4 +1,4 @@
-package leetcode._37_Sudoku_Solver;
+package _37_Sudoku_Solver;
 
 import java.util.*;
 

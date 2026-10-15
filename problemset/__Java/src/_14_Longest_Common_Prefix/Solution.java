@@ -1,4 +1,4 @@
-package leetcode._14_Longest_Common_Prefix;
+package _14_Longest_Common_Prefix;
 
 class Solution {
 

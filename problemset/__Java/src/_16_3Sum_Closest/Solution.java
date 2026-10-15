@@ -1,4 +1,4 @@
-package leetcode._16_3Sum_Closest;
+package _16_3Sum_Closest;
 
 import java.util.Arrays;
 

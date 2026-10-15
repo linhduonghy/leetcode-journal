@@ -1,4 +1,4 @@
-package leetcode._36_Valid_Sudoku;
+package _36_Valid_Sudoku;
 
 import java.util.*;
 
